@@ -42,7 +42,7 @@ As a data scientist at Spotify, this project aims to predict the genre of a song
 
 - `spotify_songs.csv` — cleaned dataset sample  
 - `Spotify_Genre_Prediction.Rmd` — R Markdown analysis and modeling code  
-- [**Spotify_Songs_Genre_Prediction_Report.pdf**](./Spotify_Songs_Genre_Prediction_Report.pdf) — full project report with figures and results  
+- [**Spotify Songs Genre Prediction Report.pdf**](./Spotify_Songs_Genre_Prediction_Report.pdf) — full project report with figures and results  
 
 ---
 ## Contact
